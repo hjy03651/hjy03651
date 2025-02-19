@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:c1eda5,100:078936&height=180&text=Cerberus'%20are%20cute&animation=&fontColor=10140d&fontSize=50" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:c1eda5,100:078936&height=180&text=Cerberuses%20are%20cute&animation=&fontColor=10140d&fontSize=50" />
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Who am I </h2>  
